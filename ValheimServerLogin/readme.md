@@ -1,5 +1,8 @@
 # How to Log into the Valheim server
-*Via the game client*
+#### Outline
+1. [Log in via the game client](#via-the-game-client)
+
+## Via the game client
 
 - Launch the game client
   - This will launch the game and show several videos before taking you to the main menu
