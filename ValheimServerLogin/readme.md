@@ -14,10 +14,11 @@
 
 - At the character selection screen, select your desired character and hit `Start`
   - This will open the start game window.
+  - If you need to create a character, click `New` and create the new character. You will be returned to this screen after completion. At that point, complete this step by clicking `Start`
 
 ![](startCharacter.png)
 
-  - If you need to create a character, click `New` and create the new character. You will be returned to this screen after completion. At that point, complete this step by clicking `Start`
+
 
 - Click the tab `Join Game` to switch to the server selection page
 
