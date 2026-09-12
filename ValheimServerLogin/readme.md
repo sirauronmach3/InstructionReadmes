@@ -42,6 +42,9 @@
 - When prompted for a password, enter `beesballs`. You should now be in the server.
 ![](enterPassword.png)
 
+- Once you've entered the game, look to the west at the welcome station.
+![waystation](waystation.png)
+
 ## Credentials
 **ip:port** `212.56.33.120:29500`
 
