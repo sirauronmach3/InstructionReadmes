@@ -1,8 +1,9 @@
 # How to Log into the Valheim server
 #### Outline
-1. [Log in via the game client](#via-the-game-client)
+1. [Log in via the game client for first time](#via-the-game-client)
+1. [Credentials](#credentials)
 
-## Via the game client
+## First time Via the game client
 
 - Launch the game client
   - This will launch the game and show several videos before taking you to the main menu
@@ -40,3 +41,8 @@
 
 - When prompted for a password, enter `beesballs`. You should now be in the server.
 ![](enterPassword.png)
+
+## Credentials
+**ip:port** `212.56.33.120:29500`
+
+**password** `beesballs`
